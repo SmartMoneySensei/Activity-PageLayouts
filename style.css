@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+}
+
+#lion {
+  height: 100;
+  width: 100;
+}
+
+#elephant {
+  height: 100;
+  width: 100;
+}
