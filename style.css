@@ -6,12 +6,12 @@ span {
   display: inline-block;
 }
 
-.lion {
+img.lion {
   height: 100px;
   width: 100px;
 }
 
-.elephant {
+img.elephant {
   height: 100px;
   width: 100px;
 }
